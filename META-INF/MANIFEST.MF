@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Simple-assist-tester
+Bundle-SymbolicName: simple-assist-tester
+Bundle-Version: 1.0.0
+Bundle-Activator: us.elron.sassist.tester.Activator
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Import-Package: org.osgi.framework;version="1.5.0",
+ us.elron.sassist
