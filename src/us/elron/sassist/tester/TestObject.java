@@ -1,5 +1,10 @@
 package us.elron.sassist.tester;
 
+
+/**
+ * @author Ender Aydin Orak
+ * @see elron.us :)
+ */
 public class TestObject {
 
     private final int    var1;

@@ -12,6 +12,10 @@ import us.elron.sassist.IAdviceBuilder;
 import us.elron.sassist.IAdviceListener;
 import us.elron.sassist.IAssistService;
 
+/**
+ * @author Ender Aydin Orak
+ * @see elron.us :)
+ */
 public class Activator implements BundleActivator {
 
     public void start(BundleContext bundleContext) throws Exception {
